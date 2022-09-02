@@ -6,4 +6,4 @@
 
 **Thoughts:** I really struggled with the firebase functionality but it turned out so good in the end! was super super happy about it <3
 
-**Link(s) to work:** [AME Family Chat]([http://www.example.com](https://disclone-withlovedese.web.app/))
+**Link(s) to work:** [AME Family Chat](http://www.example.com](https://disclone-withlovedese.web.app/)
